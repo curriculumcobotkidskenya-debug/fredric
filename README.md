@@ -1,0 +1,2 @@
+# fredric
+An edutech website
